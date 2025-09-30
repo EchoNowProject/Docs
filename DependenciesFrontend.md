@@ -9,6 +9,8 @@
   - [heroicons](https://heroicons.com/)
 - Animaciones
   - [animejs](https://animejs.com/)
+- Tipograficas
+  - [SpaceMono](https://fontsource.org/fonts/space-mono)
 
 **:pushpin: Dependencias de Desarrollo**
 - [react](https://es.react.dev/)

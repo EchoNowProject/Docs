@@ -1,6 +1,6 @@
-# Dependencias del Repositorio Frontend
+# :rocket:Dependencias del Repositorio Frontend
 
-**Dependencias de la app**  
+**:pushpin: Dependencias de la app**  
 
 - Nuevos Estilos:  
   - [headlessui](https://headlessui.com/)
@@ -10,7 +10,7 @@
 - Animaciones
   - [animejs](https://animejs.com/)
 
-**Dependencias de Desarrollo**
+**:pushpin: Dependencias de Desarrollo**
 - [react](https://es.react.dev/)
 - [eslint](https://eslint.org/)
 - [vite](https://vite.dev/)

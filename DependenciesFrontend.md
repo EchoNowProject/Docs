@@ -7,6 +7,7 @@
   - [tailwind](https://tailwindcss.com/)
 - Iconos
   - [heroicons](https://heroicons.com/)
+  - [lineicons](https://lineicons.com/)
 - Animaciones
   - [animejs](https://animejs.com/)
 - Tipograficas

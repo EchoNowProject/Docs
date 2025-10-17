@@ -10,8 +10,9 @@
   - [lineicons](https://lineicons.com/)
 - Animaciones
   - [animejs](https://animejs.com/)
-- Tipograficas
   - [SpaceMono](https://fontsource.org/fonts/space-mono)
+- Api
+  - [got](https://github.com/sindresorhus/got)
 
 **:pushpin: Dependencias de Desarrollo**
 - [react](https://es.react.dev/)

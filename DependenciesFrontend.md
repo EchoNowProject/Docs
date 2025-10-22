@@ -12,7 +12,7 @@
   - [animejs](https://animejs.com/)
   - [SpaceMono](https://fontsource.org/fonts/space-mono)
 - Api
-  - [got](https://github.com/sindresorhus/got)
+  - [axios](https://axios-http.com/)
 
 **:pushpin: Dependencias de Desarrollo**
 - [react](https://es.react.dev/)

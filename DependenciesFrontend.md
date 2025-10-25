@@ -3,10 +3,9 @@
 **:pushpin: Dependencias de la app**  
 
 - Nuevos Estilos:  
-  - [headlessui](https://headlessui.com/)
   - [tailwind](https://tailwindcss.com/)
+  - [preline](https://preline.co/)
 - Iconos
-  - [heroicons](https://heroicons.com/)
   - [lineicons](https://lineicons.com/)
 - Animaciones
   - [animejs](https://animejs.com/)
